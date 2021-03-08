@@ -12,9 +12,7 @@ SKODA RAPID
   
 Автомобили класса B / C, конкурирующие с бюджетными на вторичном рынке:  
 FORD FOCUS 3             
-TOYOTA COROLLA 160      
-SKODA OCTAVIA A7        
-OPEL ASTRA
+TOYOTA COROLLA      
   
 SUV (B):  
 HYUNDAI CRETA           
